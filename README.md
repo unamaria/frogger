@@ -1,6 +1,14 @@
-frontend-nanodegree-arcade-game
-===============================
+# Object-Oriented JavaScript #
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+## Udacity course ##
 
-for self-checking their submission.
+### Topics covered: ###
+
+* Scopes and Closures
+* The Keyword “this”
+* Prototype Delegation
+* Code Reuse
+
+[Code base:](https://github.com/udacity/frontend-nanodegree-arcade-game)
+
+[Udacity: Object-Oriented JavaScript](https://www.udacity.com/course/ud015)
