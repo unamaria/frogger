@@ -9,6 +9,6 @@
 * Prototype Delegation
 * Code Reuse
 
-[Code base:](https://github.com/udacity/frontend-nanodegree-arcade-game)
+[Code base](https://github.com/udacity/frontend-nanodegree-arcade-game)
 
 [Udacity: Object-Oriented JavaScript](https://www.udacity.com/course/ud015)
